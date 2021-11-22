@@ -1,7 +1,7 @@
 # The numpy.random Package
 
 ## Purpose
-This repository contains a Jupyter notebook and ancillary files in which some aspects and features of the [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) Python package are discussed and demonstrated in part fulfillment of requirements for the *Programming for Data Analysis* module of the HDipSc in Computing in Data Analytics at the Galway-Mayo Institute of Technology (GMIT).
+This repository contains a Jupyter notebook and ancillary files in which some aspects and features of the [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) Python package are discussed and demonstrated, in partial fulfillment of requirements for the *Programming for Data Analysis* module of the HDipSc in Computing in Data Analytics at the Galway-Mayo Institute of Technology (GMIT).
 
 ## Repository Contents
 The repository contains the following files:
@@ -11,7 +11,7 @@ The repository contains the following files:
 - [numpy-random.ipynb](https://github.com/fod/numpy-random/blob/main/numpy-random.ipynb) -- The Jupyter notebook containing the discussion and demonstration of `numpy.random`.
 
 ## Requirements
-The full environment used to complete this project can be duplicated using [requirements.txt](requirements.txt) and Python version 3.9.7. However, for convenience, a list of the packages that were explicitly installed is given below. These can be installed using [pip](https://pypi.org/project/pip/), [Conda](https://docs.conda.io/projects/conda/en/latest/api/index.html), or any other Python package manager that packages them.
+The full environment used to complete this project can be duplicated using [requirements.txt](requirements.txt) with Python version 3.9.7. However, for convenience, a list of the packages that were explicitly installed is given below. These can be installed using [pip](https://pypi.org/project/pip/), [Conda](https://docs.conda.io/projects/conda/en/latest/api/index.html), or any other appropriate package manager.
 
 - Python 3.9.7
 - faker==9.8.2
