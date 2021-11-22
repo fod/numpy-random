@@ -1,6 +1,5 @@
 # The numpy.random Package
 
-## Purpose
 This repository contains a Jupyter notebook and ancillary files in which some aspects and features of the [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) Python package are discussed and demonstrated, in partial fulfillment of requirements for the *Programming for Data Analysis* module of the HDipSc in Computing in Data Analytics at the Galway-Mayo Institute of Technology (GMIT).
 
 ## Repository Contents
